@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 💬 My name is Arturo Castro, i'm an advanced Mechanical engineering student trying to get into the it world, i love programming and the testing field.
-- 😄 I'm currently studying to become a QA automation Tester.
+- 😄 I'm currently studying to become a programmer.
 - 📫 How to reach me: Mail - Castro.ah91@gmail.com | Linkedin - [https://www.linkedin.com/in/arturo-hernan-castro/](https://www.linkedin.com/in/arturo-hernan-castro/)
 <!--
 **Arturo-Castro/Arturo-Castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
